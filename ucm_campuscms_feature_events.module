@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the UCM CampusCMS Feature Events feature.
+ */
+
+include_once('ucm_campuscms_feature_events.features.inc');
