@@ -31,6 +31,7 @@ function ucm_campuscms_feature_events_default_features_overrides() {
           ),
         ),
         'value' => NULL,
+        'order' => NULL,
       ),
       1 => array(
         'keys' => array(
@@ -52,6 +53,7 @@ function ucm_campuscms_feature_events_default_features_overrides() {
           ),
         ),
         'value' => 'return _ucm_predefined_options_departments();',
+        'order' => NULL,
       ),
     ),
     'deletions' => array(
